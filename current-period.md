@@ -127,6 +127,14 @@ Tgl Kirim : Rabu, 11 November 2026
 > Produk : Tahu Putih Pukis 380
 > Qty : 1.330
 
+> SPPG : Mora Guna
+> Produk : Tahu Putih 350
+> Qty : 1.500
+
+> SPPG : Soreang
+> Produk : Tahu Kuning Pukis 380
+> Qty : 1.330
+
 
 *PO Tempe ↴*
 
@@ -137,6 +145,10 @@ Tgl Kirim : Rabu, 11 November 2026
 > SPPG : Ngamprah
 > Produk : Tempe Kecil (CR)
 > Qty : 120
+
+> SPPG : KGGS Tubagus
+> Produk : Tempe Kecil (CR)
+> Qty : 271
 ```
 
 ```text
