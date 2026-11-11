@@ -135,6 +135,14 @@ Tgl Kirim : Rabu, 11 November 2026
 > Produk : Tahu Kuning Pukis 380
 > Qty : 1.330
 
+> SPPG : Polrestabes Bandung
+> Produk : Tahu Kuning Pukis 380
+> Qty : 1.600
+
+> SPPG : Gn Masinggit 2
+> Produk : Tahu Putih Kodi
+> Qty : 2.580
+
 
 *PO Tempe ↴*
 
