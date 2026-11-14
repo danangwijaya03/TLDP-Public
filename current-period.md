@@ -1,183 +1,76 @@
 ```text
-═══════════════════════════════════════
-Tgl Kirim : Minggu, 8 November 2026
-═══════════════════════════════════════
+════════════════════════════
+Tgl Kirim : Minggu, 15 November 2026
+════════════════════════════
 
 *PO Tahu ↴*
 
-> SPPG : Maifood Kircon
-> Produk : Tahu Kuning 350
-> Qty : 2.600
-
-> SPPG : Rancamanyar
+> SPPG : Parungserab 3
 > Produk : Tahu Kuning Pukis 380
-> Qty : 3.010
-
-> SPPG : Cihaurgeulis 02
-> Produk : Tahu Kuning Pukis 380
-> Qty : 2.760
+> Qty : 700
 
 > SPPG : Kebon Kangkung 02
-> Produk : Tahu Kuning Pukis 380
-> Qty : 3.530
-
-> SPPG : Husein Dapur 5 Jatayu
-> Produk : Tahu Kuning Kodi
-> Qty : 2.420
-
-> SPPG : Polrestabes Bandung
-> Produk : Tahu Putih 350
-> Qty : 1.600
-
-> SPPG : Ngamprah
 > Produk : Tahu Putih Pukis 380
-> Qty : 1.800
-```
+> Qty : 3.550
 
-```text
-═══════════════════════════════════════
-Tgl Kirim : Senin, 9 November 2026
-═══════════════════════════════════════
 
-*PO Tahu ↴*
+*PO Tahu Goreng ↴*
 
 > SPPG : Kebon Pisang 04
-> Produk : Tahu Kuning Pukis 380
-> Qty : 1.090
-
-> SPPG : Mekarsaluyu 02
-> Produk : Tahu Kuning Pukis 380
-> Qty : 1.330
-
-> SPPG : Soreang
-> Produk : Tahu Kuning Pukis 380
-> Qty : 1.350
-
-> SPPG : Mora Guna
-> Produk : Tahu Putih 350
-> Qty : 1.490
-
-> SPPG : Maifood Kircon
-> Produk : Tahu Kuning 350
-> Qty : 271
-
-> SPPG : Gn Masinggit 2
-> Produk : Tahu Kuning Kodi
-> Qty : 2.550
+> Produk : Tahu Pong 11x11
+> Qty : 1.100
 
 
 *PO Tempe ↴*
+
+> SPPG : Maifood Kircon
+> Produk : Tempe Kecil (CR)
+> Qty : 170
 
 > SPPG : Fitria Rancaekek
 > Produk : Tempe Kecil (CR)
-> Qty : 122
-
-> SPPG : Ngamprah
-> Produk : Tempe Kecil (CR)
-> Qty : 121
-
-> SPPG : KGGS Tubagus
-> Produk : Tempe Kecil (CR)
-> Qty : 228
+> Qty : 108
 ```
 
 ```text
-═══════════════════════════════════════
-Tgl Kirim : Selasa, 10 November 2026
-═══════════════════════════════════════
+════════════════════════════
+Tgl Kirim : Senin, 16 November 2026
+════════════════════════════
 
-*PO Tahu ↴*
+*PO Tempe ↴*
 
-> SPPG : Cihaurgeulis 02
-> Produk : Tahu Kuning Pukis 380
-> Qty : 410
-
-> SPPG : Ngamprah
-> Produk : Tahu Kuning Pukis 380
-> Qty : 1.800
-
-
-*PO Tahu Goreng ↴*
-
-> SPPG : Kebon Pisang 04
-> Produk : Tahu Pong 11x11
-> Qty : 1.080
-
-> SPPG : Cihaurgeulis 02
-> Produk : Tahu Pong 11x11
-> Qty : 2.350
-
-> SPPG : Kebon Kangkung 02
-> Produk : Tahu Pong 11x11
-> Qty : 3.550
+> SPPG : Parungserab 3
+> Produk : Tempe 750Gr (PB)
+> Qty : 30
 ```
 
 ```text
-═══════════════════════════════════════
-Tgl Kirim : Rabu, 11 November 2026
-═══════════════════════════════════════
+════════════════════════════
+Tgl Kirim : Selasa, 17 November 2026
+════════════════════════════
 
 *PO Tahu ↴*
 
-> SPPG : Kebon Kangkung 02
-> Produk : Tahu Kuning Pukis 380
-> Qty : 3.530
+> SPPG : Maifood Kircon
+> Produk : Tahu Kuning 350
+> Qty : 2.115
+```
 
-> SPPG : Mekarsaluyu 02
-> Produk : Tahu Putih Pukis 380
-> Qty : 1.330
+```text
+════════════════════════════
+Tgl Kirim : Rabu, 18 November 2026
+════════════════════════════
 
-> SPPG : Mora Guna
-> Produk : Tahu Putih 350
-> Qty : 1.500
+*PO Tahu ↴*
 
-> SPPG : Soreang
-> Produk : Tahu Kuning Pukis 380
-> Qty : 1.330
-
-> SPPG : Polrestabes Bandung
-> Produk : Tahu Kuning Pukis 380
-> Qty : 1.600
-
-> SPPG : Gn Masinggit 2
-> Produk : Tahu Putih Kodi
-> Qty : 2.580
+> SPPG : Maifood Kircon
+> Produk : Tahu Kuning 350
+> Qty : 2.410
 
 
 *PO Tempe ↴*
 
-> SPPG : Maifood Kircon
-> Produk : Tempe Kecil (CR)
-> Qty : 173
-
-> SPPG : Ngamprah
-> Produk : Tempe Kecil (CR)
-> Qty : 120
-
-> SPPG : KGGS Tubagus
-> Produk : Tempe Kecil (CR)
-> Qty : 271
-```
-
-```text
-═══════════════════════════════════════
-Tgl Kirim : Kamis, 12 November 2026
-═══════════════════════════════════════
-
-*PO Tahu ↴*
-
-> SPPG : Husein Dapur 5 Jatayu
-> Produk : Tahu Kuning Kodi
-> Qty : 310
-
-
-*PO Tahu Goreng ↴*
-
-> SPPG : Kebon Pisang 04
-> Produk : Tahu Pong 11x11
-> Qty : 1.080
-
-> SPPG : Ngamprah
-> Produk : Tahu Pong 11x11
-> Qty : 1.740
+> SPPG : Parungserab 3
+> Produk : Tempe 750Gr (PB)
+> Qty : 30
 ```
