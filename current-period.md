@@ -64,6 +64,10 @@ Tgl Kirim : Senin, 16 November 2026
 > SPPG : KGGS Tubagus
 > Produk : Tempe Kecil (CR)
 > Qty : 241
+
+> SPPG : Ngamprah
+> Produk : Tempe Kecil (CR)
+> Qty : 50
 ```
 
 ```text
@@ -76,6 +80,13 @@ Tgl Kirim : Selasa, 17 November 2026
 > SPPG : Maifood Kircon
 > Produk : Tahu Kuning 350
 > Qty : 2.115
+
+
+*PO Tempe ↴*
+
+> SPPG : Ngamprah
+> Produk : Tempe Kecil (CR)
+> Qty : 100
 ```
 
 ```text
@@ -95,4 +106,8 @@ Tgl Kirim : Rabu, 18 November 2026
 > SPPG : Parungserab 3
 > Produk : Tempe 750Gr (PB)
 > Qty : 30
+
+> SPPG : Ngamprah
+> Produk : Tempe Kecil (CR)
+> Qty : 115
 ```
