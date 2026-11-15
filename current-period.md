@@ -42,6 +42,10 @@ Tgl Kirim : Senin, 16 November 2026
 > SPPG : Parungserab 3
 > Produk : Tempe 750Gr (PB)
 > Qty : 30
+
+> SPPG : KGGS Tubagus
+> Produk : Tempe Kecil (CR)
+> Qty : 241
 ```
 
 ```text
