@@ -37,6 +37,24 @@ Tgl Kirim : Minggu, 15 November 2026
 Tgl Kirim : Senin, 16 November 2026
 ════════════════════════════
 
+*PO Tahu ↴*
+
+> SPPG : Kebon Kangkung 02
+> Produk : Tahu Putih Pukis 380
+> Qty : 3.550
+
+> SPPG : Kebon Pisang 04
+> Produk : Tahu Putih Pukis 380
+> Qty : 1.090
+
+
+*PO Tahu Goreng ↴*
+
+> SPPG : Mora Guna
+> Produk : Tahu Pong 11x12
+> Qty : 1.520
+
+
 *PO Tempe ↴*
 
 > SPPG : Parungserab 3
